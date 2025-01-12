@@ -1,0 +1,21 @@
+.card {
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+  background: white;
+}
+
+.content {
+  padding: 10px;
+}
+
+.date {
+  font-size: 0.9em;
+  color: gray;
+}
+
+.title {
+  font-size: 1.2em;
+  font-weight: bold;
+}
