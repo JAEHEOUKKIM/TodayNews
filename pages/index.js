@@ -29,7 +29,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className={styles.hero}>
         <h1>Let's do it together.</h1>
-        <p>We travel the world in search of stories. Come along for the ride.</p>
+        <p>임프로 코딩을 열심히 합시다.</p>
         <button className={styles.viewLatest}>View Latest Posts</button>
       </section>
 
