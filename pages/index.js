@@ -27,10 +27,10 @@ export default function Home() {
   return (
     <div className={styles.container}>
       {/* Hero Section */}
-      <section className={styles.hero}>
+      <section className={styles.hero}> 
         <h1>Let's do it together.</h1>
-        <p>임영빈프로 코딩을 열심히 합시다.</p>
-        <p>심쿵 테크 일동.</p>
+        <p>프로 코딩을 열심히 합시다.</p>
+        <p> 심쿵 </p>
         <button className={styles.viewLatest}>View Latest Posts</button>
       </section>
 
